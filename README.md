@@ -11,4 +11,4 @@ The styling is based on the Momentum Dashboard. It features API data from crypto
 
 ## Preview
 
-<img src="https://github.com/thejoshyee/dashboard-extension/blob/main/app-preview.png" />
+<img src="https://github.com/thejoshyee/dashboard-extension/blob/main/app-preview.png" width="50%"/>
